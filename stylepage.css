@@ -1,0 +1,18 @@
+@media (min-width: 800px) {
+  li {
+    background-color: silver;
+  }
+}
+
+header {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  display: flex;
+}
+
+#welcome-section {
+  width: 100%;
+  height: 100vh;
+  margin: 100px;
+}
